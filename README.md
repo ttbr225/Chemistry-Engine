@@ -1,4 +1,4 @@
-# Chemistry Engine
+# DAG Computation Engine
 
 A small Python engine for expressing a computation as a graph of connected nodes, evaluating it lazily with memoization, and rendering it as a diagram.
 
