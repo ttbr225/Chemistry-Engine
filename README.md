@@ -86,3 +86,7 @@ Ubuntu, `apt install graphviz`). Packaged with Nix flakes for reproducible build
 - `Visualizer` writes to a hardcoded `graph.png` rather than an argument.
 - Naming deliberately capitalises domain types (`Value_Emitter`, `input_source_Particles`)
   rather than following PEP 8 throughout.
+
+## Credit
+
+This README was written by an AI agent from code written by a human.
